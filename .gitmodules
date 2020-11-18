@@ -1,0 +1,15 @@
+[submodule "casing"]
+	path = casing
+	url = https://github.com/clem-sambuc/GNUVario-casing.git
+[submodule "pcb"]
+	path = pcb
+	url = https://github.com/clem-sambuc/GNUVario-pcb.git
+[submodule "calibration"]
+	path = calibration
+	url = https://github.com/clem-sambuc/GNUVario-calibration.git
+[submodule "sd"]
+	path = sd
+	url = https://github.com/clem-sambuc/GNUVario-sd.git
+[submodule "src"]
+	path = src
+	url = https://github.com/clem-sambuc/GNUVario-src.git
